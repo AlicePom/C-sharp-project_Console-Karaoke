@@ -55,17 +55,7 @@ namespace Karaoke.Songs
                     {
                         selectedSongName = selectedSong.SongName;
                     }
-                    else // if the number entered was outside the required range
-                    {
-                        Console.WriteLine("Invalid input! Please enter a number from the required range. ");
-                        Console.WriteLine();
-                    }
-                }
-                else // if the input was invalid (no integer entered)
-                {
-                    Console.WriteLine("Invalid input! Please enter the whole number. ");
-                    Console.WriteLine();
-                }          
+         
             } while (selectedSong == null);
 
             Console.WriteLine();
