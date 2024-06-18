@@ -12,8 +12,8 @@ namespace Karaoke.ConsoleClient
             var songManager = new SongManager();    
 
             // Loading of the JSON file
-            string filePath = "songs.json";
-            var songs = jsonDeserializer.DeserializeSongs(filePath);
+            //string filePath = "songs.json";
+            var songs = jsonDeserializer.DeserializeSongs();
 
             // Introduction of the application and displaying the song selection
             songManager.DisplaySongs();

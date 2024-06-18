@@ -11,8 +11,9 @@ namespace Karaoke.Songs
     // Deserialization of the Json file 
     public class JsonDeserializer
     {
-        public Dictionary<string, List<TableRow>> DeserializeSongs(string filePath)
+        public Dictionary<string, List<TableRow>> DeserializeSongs()
         {
+            string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "songs.json");
             string jsonString = File.ReadAllText(filePath);
             var songCollection = JsonSerializer.Deserialize<SongCollection>(jsonString);
             return songCollection.Songs;
