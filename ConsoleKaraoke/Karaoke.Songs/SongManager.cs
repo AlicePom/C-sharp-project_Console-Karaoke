@@ -46,7 +46,7 @@ namespace Karaoke.Songs
                 Console.Write("Select a song to play - enter the corresponding number (1 to 2): ");
                 
                 bool parsedInput = int.TryParse(Console.ReadLine(), out int inputId);
-                
+
                 if (parsedInput) // if the input was entered correctly
                 {
                     selectedSong = songs.FirstOrDefault(song => song.Id == inputId);
@@ -55,6 +55,7 @@ namespace Karaoke.Songs
                     {
                         selectedSongName = selectedSong.SongName;
                     }
+                }
          
             } while (selectedSong == null);
 
