@@ -43,7 +43,7 @@ namespace Karaoke.Songs
             do
             {
                 // Prompting the user to select a song by entering the song ID
-                Console.Write("Select a song to play - enter the corresponding number (1 to 2): ");
+                Console.Write($"Select a song to play - enter the corresponding number (1 to {songs.Count()}): ");
                 
                 bool parsedInput = int.TryParse(Console.ReadLine(), out int inputId);
 
