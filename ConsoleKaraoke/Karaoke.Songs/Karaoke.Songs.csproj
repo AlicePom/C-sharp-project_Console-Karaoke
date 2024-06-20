@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Karaoke.Abstractions\Karaoke.Abstractions.csproj" />
-  </ItemGroup>
-
 </Project>
