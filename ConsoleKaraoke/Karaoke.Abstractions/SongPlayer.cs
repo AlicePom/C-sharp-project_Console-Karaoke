@@ -62,19 +62,19 @@
 
             foreach (var row in chosenSong)
             {
-                if (!string.IsNullOrEmpty(row.Syllable)) // a tone is beeped upon the corresponding syllable printed to the console
-                {
-                    // printing a syllable
-                    Console.Write(row.Syllable);
-                    // beeping a tone
-                    Console.Beep(toneFrequency[row.Tone], toneLength[row.Length]);
-                    // making a pause - necessary between each 2 tones + makes dashes if intended
-                    Thread.Sleep(row.Pause * (toneLength["sixteenth"] + toneLength["eighth"]) + toneLength["sixteenth"]);
-                }
-                else // a gap in song text is printed on the console; no tone is beeped
+                if (string.IsNullOrEmpty(row.Syllable)) // a gap in song text is printed on the console; no tone is beeped
                 {
                     Console.WriteLine();
+                    continue;
                 }
+
+                // a tone is beeped upon the corresponding syllable printed to the console
+                // printing a syllable
+                Console.Write(row.Syllable);
+                // beeping a tone
+                Console.Beep(toneFrequency[row.Tone], toneLength[row.Length]);
+                // making a pause - necessary between each 2 tones + makes dashes if intended
+                Thread.Sleep(row.Pause * (toneLength["sixteenth"] + toneLength["eighth"]) + toneLength["sixteenth"]);
             }
         }
     }

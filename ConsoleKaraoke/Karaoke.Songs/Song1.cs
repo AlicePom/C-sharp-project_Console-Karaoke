@@ -1,10 +1,19 @@
-﻿namespace Karaoke.Songs
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Text.Json;
+using Karaoke.Abstractions;
+
+namespace Karaoke.Songs
 {
-    internal class Song1 : ISong
+    public class Song1 : SongBase
     {
-        public int Id => 1;
-        public string Title => "Hýkal";
-        public string Author => "Zrní";
-        public string SongName => "song1";
+        public override int Id => 1;
+        public override string Title => "Hýkal";
+        public override string Author => "Zrní";
+        public override string SongName => "song1";
     }
 }

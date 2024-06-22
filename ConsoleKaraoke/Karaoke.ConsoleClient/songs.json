@@ -177,7 +177,7 @@
       },
       {
         "Syllable": "di",
-        "Tone": "E4",
+        "Tone": "Fis4",
         "Length": "eighth",
         "Pause": 8
       },
@@ -450,6 +450,864 @@
         "Tone": "H3",
         "Length": "eighth",
         "Pause": 8
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Dej ",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "si ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "po-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "zor ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "na ",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "les, ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "a\u0165 ",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "t\u011B ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ne-",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "spolk-",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ne",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 7
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "H\u00FD-",
+        "Tone": "A3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "ru-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "d\u00FD ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "v\u0159es",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 6
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Dej ",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "si ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "po-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "zor ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "na ",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "les, ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "a\u0165 ",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "t\u011B ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "ne-",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "spolk-",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ne",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "H\u00FD-",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Ru-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "d\u00FD ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "v\u0159es",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 2
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "H\u00FD-",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 6
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Ru-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "d\u00FD ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "v\u0159es",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 2
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "H\u00FD-",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "O-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "b\u00FD-",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "va-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "n\u00FD ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "mra-",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ven-",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ci",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 13
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "O-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "b\u00FD-",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "va-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "n\u00FD ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "mra-",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ven-",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ci, ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "kte-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "\u0159\u00ED ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "je-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "d\u00ED ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 3
+      },
+      {
+        "Syllable": "lids-",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "k\u00E9 ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ma-",
+        "Tone": "D4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "so",
+        "Tone": "D4",
+        "Length": "eighth",
+        "Pause": 8
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "O-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "b\u00FD-",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "va-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "n\u00FD ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "h\u00FD-",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 6
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "A\u0165 ",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "t\u011B ",
+        "Tone": "A3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ne-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "spolk-",
+        "Tone": "A3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ne",
+        "Tone": "G3",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Sk\u00E1-",
+        "Tone": "A3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "pes, ",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "p\u0159es ",
+        "Tone": "A3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ves",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 11
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "A\u0165 ",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "t\u011B ",
+        "Tone": "A3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ne-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "spolk-",
+        "Tone": "A3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ne ",
+        "Tone": "G3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "h\u00FD-",
+        "Tone": "Fis3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal ",
+        "Tone": "Fis3",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "a ",
+        "Tone": "Fis3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ru-",
+        "Tone": "Fis3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "d\u00FD ",
+        "Tone": "Fis3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "v\u0159es",
+        "Tone": "A3",
+        "Length": "quarter",
+        "Pause": 6
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Sk\u00E1-",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "pes, ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 10
+      },
+      {
+        "Syllable": "h\u00FD-",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal, ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 3
+      },
+      {
+        "Syllable": "h\u00FD-",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "p\u0159i ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "tom",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 2
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Sk\u00E1-",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "pes, ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 7
+      },
+      {
+        "Syllable": "p\u0159i ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "tom ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "h\u00FD-",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kal",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "A\u0165 ",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "t\u011B ",
+        "Tone": "A3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ne-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "spolk-",
+        "Tone": "A3",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ne",
+        "Tone": "G3",
+        "Length": "eighth",
+        "Pause": 16
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Dej ",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "si ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "po-",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "zor ",
+        "Tone": "H3",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "na ",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "les, ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "a\u0165 ",
+        "Tone": "A3",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "t\u011B ",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ne-",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "spolk-",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ne",
+        "Tone": "H3",
+        "Length": "eighth",
+        "Pause": 8
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
       }
     ],
     "song2": [
@@ -796,13 +1654,13 @@
         "Pause": 0
       },
       {
-        "Syllable": "tap-",
+        "Syllable": "tapp-",
         "Tone": "E4",
         "Length": "quarter",
         "Pause": 0
       },
       {
-        "Syllable": "ping",
+        "Syllable": "ing",
         "Tone": "D4",
         "Length": "quarter",
         "Pause": 0
@@ -1880,6 +2738,3802 @@
         "Tone": "",
         "Length": "",
         "Pause": 0
+      }
+    ],
+    "song3": [
+      {
+        "Syllable": "Love ",
+        "Tone": "H4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "is ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "just ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "a ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "his-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "to-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ry ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "that ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "they ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "may ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "prove",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "And ",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "when ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "you\u0027re ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "gone",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "tell ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "them ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "re-",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "li-",
+        "Tone": "Fis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "gion\u0027s ",
+        "Tone": "Fis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "When ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Punk-",
+        "Tone": "H4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "tious ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "comes ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "to ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "kill ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "the ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "king ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "u-",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "pon ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "his ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "throne",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027m ",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "rea-",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "dy ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "for ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "their ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "stones",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "With ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "bove ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "head, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "head, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "head",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Like ",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Je-",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "sus ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "said",
+        "Tone": "E5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027m ",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "gon-",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "na ",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "With ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "bove ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "he-",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ad",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Hands ",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "to-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "get-",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "her, ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "for-",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "give ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "him ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fore ",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "he\u0027s ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dead, ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cause",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "won\u0027t ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cry ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "for ",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "E5",
+        "Length": "quarter",
+        "Pause": 3
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "F5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "won\u0027t ",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cru-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ci-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fy ",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "the ",
+        "Tone": "G4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "things ",
+        "Tone": "H4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you ",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "do-",
+        "Tone": "E5",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "D5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "C5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "won\u0027t ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cry ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "for ",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "E5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "See, ",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "when ",
+        "Tone": "F5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you\u0027re ",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "gone, ",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "still ",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be ",
+        "Tone": "G4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Blo-",
+        "Tone": "H4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ody ",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Ma-",
+        "Tone": "E5",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "D5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "C5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ry",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Love",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "We ",
+        "Tone": "H4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "are ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "not ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "just ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "art ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "for ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Mi-",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "che-",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "lan-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ge-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "lo ",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "to ",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "carve",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "He ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "can\u0027t ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "re-",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "write ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "the ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ag-",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "gro ",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "of ",
+        "Tone": "Fis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "Fis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fu-",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ried ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "heart",
+        "Tone": "H4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "wait ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "on ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "moun-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "tain ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "tops ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "in ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Pa-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ris, ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cold",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "J\u0027veux ",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "pas ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "mou-",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "rir ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "toute ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "seule",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "With ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "bove ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "head, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "head, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "head",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Like ",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Je-",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "sus ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "said",
+        "Tone": "E5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027m ",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "gon-",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "na ",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dance",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "With ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "hands ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "bove ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "he-",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ad",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Hands ",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "to-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "get-",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "her, ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "for-",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "give ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "him ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fore ",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "he\u0027s ",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dead, ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cause",
+        "Tone": "Gis4",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "won\u0027t ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cry ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "for ",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "E5",
+        "Length": "quarter",
+        "Pause": 3
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "F5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "won\u0027t ",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cru-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ci-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fy ",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "the ",
+        "Tone": "G4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "things ",
+        "Tone": "H4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you ",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "do-",
+        "Tone": "E5",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "D5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "C5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "won\u0027t ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cry ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "for ",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "E5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "See, ",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "when ",
+        "Tone": "F5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you\u0027re ",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "gone, ",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "still ",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be ",
+        "Tone": "G4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Blo-",
+        "Tone": "H4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ody ",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Ma-",
+        "Tone": "E5",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "D5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "C5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ry",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Love",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Ga-",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ga, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "Ga-",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ga",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Ga-",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ga, ",
+        "Tone": "E5",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "Ga-",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ga",
+        "Tone": "H4",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Ga-",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ga, ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "Ga-",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ga",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Ga-",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ga, ",
+        "Tone": "E5",
+        "Length": "quarter",
+        "Pause": 4
+      },
+      {
+        "Syllable": "Ga-",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ga",
+        "Tone": "H4",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Dum ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dum, ",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "di-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Dum ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dum, ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "di-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dad-",
+        "Tone": "C5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "C5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "di-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 6
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Dum ",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dum, ",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "di-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 3
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Dum ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dum, ",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "di-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Dum ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dum, ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "di-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dad-",
+        "Tone": "C5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "C5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "di-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 6
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Dum ",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dum, ",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "di-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "da-",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 3
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "won\u0027t ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cry ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "for ",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "E5",
+        "Length": "quarter",
+        "Pause": 3
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "won\u0027t ",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cru-",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ci-",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fy ",
+        "Tone": "A5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "the ",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "things ",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you ",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "do, ",
+        "Tone": "A5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "do, ",
+        "Tone": "G5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "do",
+        "Tone": "E5",
+        "Length": "quarter",
+        "Pause": 3
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "won\u0027t ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cry ",
+        "Tone": "F5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "for ",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "E5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "See, ",
+        "Tone": "C5",
+        "Length": "quarter",
+        "Pause": 1
+      },
+      {
+        "Syllable": "when ",
+        "Tone": "F5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you\u0027re ",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "gone, ",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "C5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "still ",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be ",
+        "Tone": "G4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Blo-",
+        "Tone": "H4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ody ",
+        "Tone": "D5",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Ma-",
+        "Tone": "E5",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "D5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "E5",
+        "Length": "sixteenth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ry",
+        "Tone": "A5",
+        "Length": "3eighth",
+        "Pause": 3
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "O-",
+        "Tone": "C6",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "H5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 2
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "O-",
+        "Tone": "C6",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "H5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 2
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "O-",
+        "Tone": "C6",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "H5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 2
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "O-",
+        "Tone": "C6",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "H5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 2
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "O-",
+        "Tone": "C6",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "H5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 2
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "O-",
+        "Tone": "C6",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "H5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 2
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "O-",
+        "Tone": "C6",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "H5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 2
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "O-",
+        "Tone": "C6",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "H5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o-",
+        "Tone": "G5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "o",
+        "Tone": "A5",
+        "Length": "eighth",
+        "Pause": 12
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Li-",
+        "Tone": "F5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be-",
+        "Tone": "E5",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "rate, ",
+        "Tone": "D5",
+        "Length": "eighth",
+        "Pause": 1
+      },
+      {
+        "Syllable": "mi ",
+        "Tone": "H4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "mor",
+        "Tone": "A4",
+        "Length": "eighth",
+        "Pause": 6
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      }
+    ],
+    "song4": [
+      {
+        "Syllable": "I ",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "still ",
+        "Tone": "E4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be-",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "lieve ",
+        "Tone": "Cis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "in ",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "your ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "eyes",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "just ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "don\u0027t ",
+        "Tone": "G4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "care ",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "what ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you\u0027ve ",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "done ",
+        "Tone": "E4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "in ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "your ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "life",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Ba-",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "by ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "al-",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ways ",
+        "Tone": "E4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be ",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "here ",
+        "Tone": "Cis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "by ",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "your ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "side",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Don\u0027t ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "leave ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "me ",
+        "Tone": "G4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "wai-",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ting ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "too ",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "long, ",
+        "Tone": "E4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "please ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "come ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "by",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I-",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I-",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "still ",
+        "Tone": "E4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be-",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "lieve ",
+        "Tone": "Cis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "in ",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "your ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "eyes",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "There ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "is ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "no ",
+        "Tone": "G4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "choice, ",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be-",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "long ",
+        "Tone": "E4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "to ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "your ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "life",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Be-",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "cause ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I, ",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "live ",
+        "Tone": "E4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "to ",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "love ",
+        "Tone": "Cis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you ",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "some-",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "day",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "You\u0027ll ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "G4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ba-",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "by ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "and ",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "we\u0027ll ",
+        "Tone": "E4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fly ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "a-",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "way",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 4
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "And ",
+        "Tone": "D4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fly ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "with ",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "D4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "Cis4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "H3",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fly ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "with ",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "D4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "E4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "Fis4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fly ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "with ",
+        "Tone": "G4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "A4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "A4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "A4",
+        "Length": "whole",
+        "Pause": 8
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Eve-",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ry ",
+        "Tone": "E4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "day ",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "and ",
+        "Tone": "Cis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "eve-",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ry ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "night",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "al-",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ways ",
+        "Tone": "G4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "dream ",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "that ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you ",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "are ",
+        "Tone": "E4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "by ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "my ",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "side",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Oh, ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ba-",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "by, ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "eve-",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ry ",
+        "Tone": "E4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "day ",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "and ",
+        "Tone": "Cis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "eve-",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ry ",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "night",
+        "Tone": "D4",
+        "Length": "3eighth",
+        "Pause": 5
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "Well, ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "said ",
+        "Tone": "G4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "eve-",
+        "Tone": "A4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "ry-",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "thing\u0027s ",
+        "Tone": "Fis4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "gon-",
+        "Tone": "E4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "na ",
+        "Tone": "E4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "be ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "al-",
+        "Tone": "A4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "right",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 4
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "And ",
+        "Tone": "D4",
+        "Length": "eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fly ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "with ",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "D4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "Cis4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "H3",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fly ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "with ",
+        "Tone": "D4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "D4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "E4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "Fis4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "",
+        "Tone": "",
+        "Length": "",
+        "Pause": 0
+      },
+      {
+        "Syllable": "I\u0027ll ",
+        "Tone": "G4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "fly ",
+        "Tone": "Fis4",
+        "Length": "3eighth",
+        "Pause": 0
+      },
+      {
+        "Syllable": "with ",
+        "Tone": "G4",
+        "Length": "quarter",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "A4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you-",
+        "Tone": "A4",
+        "Length": "whole",
+        "Pause": 0
+      },
+      {
+        "Syllable": "you",
+        "Tone": "A4",
+        "Length": "whole",
+        "Pause": 8
       },
       {
         "Syllable": "",

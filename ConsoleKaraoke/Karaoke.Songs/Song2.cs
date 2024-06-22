@@ -5,14 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Text.Json;
+using Karaoke.Abstractions;
 
 namespace Karaoke.Songs
 {
-    internal class Song2 : ISong
+    public class Song2 : SongBase
     {
-        public int Id => 2;
-        public string Title => "Atom Angel";
-        public string Author => "Waltari";
-        public string SongName => "song2";
+        public override int Id => 2;
+        public override string Title => "Atom Angel";
+        public override string Author => "Waltari";
+        public override string SongName => "song2";
     }
 }
