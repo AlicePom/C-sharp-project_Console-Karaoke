@@ -10,6 +10,9 @@
   <ItemGroup>
     <ProjectReference Include="..\Karaoke.Abstractions\Karaoke.Abstractions.csproj" />
     <ProjectReference Include="..\Karaoke.Songs\Karaoke.Songs.csproj" />
+    <None Update="songs.json">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
