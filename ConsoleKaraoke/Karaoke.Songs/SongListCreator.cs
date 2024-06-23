@@ -17,7 +17,7 @@ namespace Karaoke.Songs
             var assemblies = AppDomain.CurrentDomain.GetAssemblies(); // Since the base class SongBase is a in different assembly than Song1 and Song2
 
             var songTypes = assemblies.SelectMany(assembly => assembly.GetTypes())
-                                      .Where(t => t.IsClass && !t.IsAbstract && t.IsSubclassOf(typeof(SongBase)))
+                                      .Where(t => t.IsSubclassOf(typeof(SongBase)))
                                       .ToList();
 
             foreach (var type in songTypes)
