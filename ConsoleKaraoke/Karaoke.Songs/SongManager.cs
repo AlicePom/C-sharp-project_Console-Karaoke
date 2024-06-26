@@ -7,9 +7,9 @@ using Karaoke.Abstractions;
 
 namespace Karaoke.Songs
 {
-    public class SongManager
+    public class SongManager : ISongManager
     {
-        public List<SongBase> SongsList;
+        public List<ISong> SongsList;
 
         public SongManager()
         {
@@ -28,6 +28,11 @@ namespace Karaoke.Songs
             }
 
             Console.WriteLine();
+        }
+
+        public List<ISong> GetSongs()
+        {
+            return SongsList;
         }
     }
 }

@@ -9,7 +9,7 @@ using Karaoke.Abstractions;
 
 namespace Karaoke.Songs
 {
-    internal class Song3 : SongBase
+    public class Song3 : SongBase
     {
         public override int Id => 3;
         public override string Title => "Bloody Mary";

@@ -9,9 +9,9 @@ namespace Karaoke.ConsoleClient
 {
     internal class UserSelection
     {
-        public List<SongBase> songsList;
+        public List<ISong> songsList;
 
-        public UserSelection(List<SongBase> songsList)
+        public UserSelection(List<ISong> songsList)
         {
             this.songsList = songsList;       
         }
@@ -20,7 +20,7 @@ namespace Karaoke.ConsoleClient
         // The input (InputId), if entered within the required range, will be attributed to the Id of a song available in the "songs" List
         public string GetSongById()
         {
-            SongBase selectedSong = null;
+            ISong selectedSong = null;
             string selectedSongName = null;
 
             do

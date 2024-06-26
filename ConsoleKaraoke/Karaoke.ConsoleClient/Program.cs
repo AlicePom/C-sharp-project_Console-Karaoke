@@ -8,19 +8,20 @@ namespace Karaoke.ConsoleClient
         static void Main(string[] args)
         {
             // Loading of the JSON file
-            var jsonDeserializer = new JsonDeserializer();
-            var songs = jsonDeserializer.DeserializeSongs();
+            ISongCatalogueProvider catalogueProvider = new JsonCatalogueProvider();
+            var songs = catalogueProvider.DeserializeSongs();
 
             // Introduction of the application and displaying the song selection
-            var songManager = new SongManager();
+            ISongManager songManager = new SongManager();
             songManager.DisplaySongs();
 
             // Prompting the user to select a song from the list
-            var userSelection = new UserSelection(songManager.SongsList);
-          
+            var userSelection = new UserSelection(songManager.GetSongs());
+            var selectedSongName = userSelection.GetSongById();
+
             // Playing the selected song
-            var songPlayer = new SongPlayer();
-            songPlayer.PlaySong(userSelection.GetSongById(), songs);
+            ISongPlayer songPlayer = new ConsoleSongPlayer();
+            songPlayer.PlaySong(selectedSongName, songs);
             Console.WriteLine();
         }
     }
